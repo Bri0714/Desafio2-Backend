@@ -1,0 +1,31 @@
+{
+	"products": [
+		{
+			"id": 2,
+			"tittle": "ropa deportiva",
+			"description": " camiseta real madrid",
+			"thumbnail": "/img/real.jpg",
+			"price": 200000,
+			"code": "AF27",
+			"stock": 2000
+		},
+		{
+			"id": 3,
+			"tittle": "ropa deportiva",
+			"description": " camiseta real madrid",
+			"thumbnail": "/img/real.jpg",
+			"price": 200000,
+			"code": "AF26",
+			"stock": 2000
+		},
+		{
+			"id": 4,
+			"tittle": "ropa deportiva",
+			"description": " camiseta chelsea",
+			"thumbnail": "/img/chelsea.jpg",
+			"price": 40000,
+			"code": "AF29",
+			"stock": 3000
+		}
+	]
+}
